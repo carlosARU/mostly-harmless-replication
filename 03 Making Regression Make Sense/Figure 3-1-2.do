@@ -4,6 +4,7 @@ eststo clear
 capture log close _all
 capture version 13
 
+Holaxd
 
 /* Stata code for Table 3.1.2   */
 /* Required additional packages */

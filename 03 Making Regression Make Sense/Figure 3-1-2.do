@@ -4,6 +4,7 @@ eststo clear
 capture log close _all
 capture version 13
 
+
 /* Stata code for Table 3.1.2   */
 /* Required additional packages */
 log using "Table 3-1-2-Stata.txt", name(table030102) text replace
